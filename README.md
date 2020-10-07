@@ -19,7 +19,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-## [Try the live demo](https://romerojose.com/) ⚡
 ![Thumbnail](https://github.com/romerojoseing/laravel-jetstream/blob/main/capture.png?raw=true)
 
 <br>
