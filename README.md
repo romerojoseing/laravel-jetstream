@@ -1,3 +1,7 @@
+# Framework: Laravel
+
+_Project to run and test new actualizations of the components of the framework._
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -27,35 +31,65 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+## [Try the live demo](https://romerojose.com/) ⚡
+![Thumbnail](https://github.com/romerojoseing/test/blob/master/assets/img/portfolio/romerojose.png?raw=true)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+<br>
 
-## Contributing
+## Getting Started 🚀
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system._
 
-## Code of Conduct
+See **Requirements** to know the minimum standards to use the project.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Requirements 📋
 
-## Security Vulnerabilities
+_You need to have the following technologies installed to use this project._
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+* [Google Chrome](https://www.google.com/intl/es/chrome/)
+* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
+* [Opera](https://www.opera.com/es)
 
-## License
+### Installing 🔧
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+_To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
+
+```ssh
+  $ git clone https://github.com/romerojoseing/test.git
+```
+
+<br>
+
+## Use Project 👓
+
+_To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
+
+<br>
+
+## Built With 🛠️
+
+_Technologies used in the project:_
+
+* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
+* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
+* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animations and functionalities.
+* [Bootstrap 4](https://getbootstrap.com/) - Framework for CSS.
+
+<br>
+
+## Author ✒️
+
+_If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
+
+Designed with 💖 - by [Romero José](https://romerojose.com/)
+
+### Social networks
+
+* **GitHub** - *Repositories of my latest projects* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Interesting mini projects and tests* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Professional developer profile* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documenting my journey* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publications and promotional content* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Random comments and more* - [romerojoseing](https://twitter.com/romerojoseing)
